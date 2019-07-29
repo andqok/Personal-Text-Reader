@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andqok/Book-Reader.git"
+    "url": "git+https://github.com/andqok/Personal-Text-Reader.git"
   },
   "author": "Andrew Domanski",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andqok/Book-Reader/issues"
+    "url": "https://github.com/andqok/Personal-Text-Reader/issues"
   },
-  "homepage": "https://github.com/andqok/Book-Reader#readme",
+  "homepage": "https://github.com/andqok/Personal-Text-Reader#readme",
   "devDependencies": {
     "electron": "^3.0.3"
   },
   "dependencies": {
-    "js-yaml": "^3.0.0"
+    "js-yaml": ">=3.13.1"
   }
 }
